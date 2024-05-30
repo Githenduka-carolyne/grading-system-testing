@@ -1,0 +1,17 @@
+{
+  "name": "grading-system-testing",
+  "private": true,
+  "version": "0.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest --verbose",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "type":"jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "vite": "^5.2.0"
+  }
+}
